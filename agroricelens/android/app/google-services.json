@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169884682843",
+    "project_id": "agroricelens-a4698",
+    "storage_bucket": "agroricelens-a4698.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169884682843:android:bb0ef33036315611d54d7e",
+        "android_client_info": {
+          "package_name": "com.agroricelens.agroricelens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBT5GnLFIbHhPIjOHxYF_pTXlJi9SC2KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
