@@ -1,5 +1,3 @@
-# Weedy Rice Classification using Flutter
+# Weedy Rice Classification for Mobile Application using Convolutional Neural Network
 
-This project is still going, it is for my Final Year Project
 
-Latest update : Convert Yolov5 Classification Model to TFLITE Model
