@@ -26,7 +26,7 @@ Technologies Used : YOLOv5, Pytorch, ONNX, Tensorflow, TFLite, Flutter, Firebase
 ![Image](https://github.com/user-attachments/assets/82a35054-db42-4e20-8b6d-c118f8cb45ed)
 - FAQ Page
 
-## Conlusion
+## Conclusion
 
 The "AgroRiceLens" project uses advanced Convolutional Neural Networks for precise, real-time identification of weedy rice, surpassing traditional methods and reducing chemical use and environmental impact. By integrating modern image recognition into daily farming, it boosts farm productivity and ensures sustainable rice cultivation in Malaysia. This system benefits farmers, agricultural consultants, agronomists, and technology providers, enhancing Malaysia's agriculture industry.
 
