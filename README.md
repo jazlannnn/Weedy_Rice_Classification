@@ -8,22 +8,22 @@ Technologies Used : YOLOv5, Pytorch, ONNX, Tensorflow, TFLite, Flutter, Firebase
 
 ## Screenshot of the Mobile Application
 
-![Image](https://github.com/user-attachments/assets/fa44c85f-1e0a-4436-8238-ee566bac4cff)
+![Image](https://github.com/user-attachments/assets/13b65112-8afd-4095-ae7f-96bf27c80621)
 - Onboarding Page
 
-![Image](https://github.com/user-attachments/assets/050889a1-6410-4765-9ea1-297070ed49e0)
+![Image](https://github.com/user-attachments/assets/960d61f9-183e-45bb-9f3a-f657ad8735da)
 - Home Page
 
-![Image](https://github.com/user-attachments/assets/13b65112-8afd-4095-ae7f-96bf27c80621)
+![Image](https://github.com/user-attachments/assets/050889a1-6410-4765-9ea1-297070ed49e0)
 - Location Page
 
-![Image](https://github.com/user-attachments/assets/82a35054-db42-4e20-8b6d-c118f8cb45ed)
+![Image](https://github.com/user-attachments/assets/0567e18f-529d-4a89-b443-fa115df0416c)
 - Scan Page
 
-![Image](https://github.com/user-attachments/assets/0567e18f-529d-4a89-b443-fa115df0416c)
+![Image](https://github.com/user-attachments/assets/fa44c85f-1e0a-4436-8238-ee566bac4cff)
 - Result Page
 
-![Image](https://github.com/user-attachments/assets/960d61f9-183e-45bb-9f3a-f657ad8735da)
+![Image](https://github.com/user-attachments/assets/82a35054-db42-4e20-8b6d-c118f8cb45ed)
 - FAQ Page
 
 # Conlusion
