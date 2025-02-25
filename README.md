@@ -33,4 +33,4 @@ The "AgroRiceLens" project uses advanced Convolutional Neural Networks for preci
 ## To test the AgroRiceLens app
 
 Click the link below and download the APK file.
-https://drive.google.com/drive/folders/1AYvGxlsp_fYwHzHQMwGEmgLuaWMYtwof
+- https://drive.google.com/drive/folders/1AYvGxlsp_fYwHzHQMwGEmgLuaWMYtwof
