@@ -1,0 +1,12 @@
+# Custom YOLOv5 Dataset Configuration
+
+# Paths
+path: C:/yolov5_env/WeedyRice_Classification/dataset  # Root directory of your dataset
+train: train                                         # Training images directory (relative to `path`)
+val: val                                             # Validation images directory (relative to `path`)
+test: C:/yolov5_env/WeedyRice_Classification/test    # Testing images directory (relative to `path`)
+
+# Classes
+names:
+  0: Cultivated Rice
+  1: Weedy Rice
